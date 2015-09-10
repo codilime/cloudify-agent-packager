@@ -6,11 +6,11 @@ core_modules:
     cloudify_plugins_common: https://github.com/codilime/cloudify-plugins-common/archive/snapshots-master.tar.gz
     cloudify_rest_client: https://github.com/codilime/cloudify-rest-client/archive/snapshots-master.tar.gz
 core_plugins:
-    cloudify_script_plugin: https://github.com/cloudify-cosmo/cloudify-script-plugin/archive/1.3m4.tar.gz
+    cloudify_script_plugin: https://github.com/cloudify-cosmo/cloudify-script-plugin/archive/1.3m5.tar.gz
 
-    cloudify_diamond_plugin: https://github.com/cloudify-cosmo/cloudify-diamond-plugin/archive/1.3m4.tar.gz
+    cloudify_diamond_plugin: https://github.com/cloudify-cosmo/cloudify-diamond-plugin/archive/1.3m5.tar.gz
 
 additional_plugins:
-    cloudify-fabric-plugin: https://github.com/cloudify-cosmo/cloudify-fabric-plugin/archive/1.3m4.tar.gz
+    cloudify-fabric-plugin: https://github.com/cloudify-cosmo/cloudify-fabric-plugin/archive/1.3m5.tar.gz
 output_tar: Ubuntu-trusty-agent.tar.gz
 keep_virtualenv: true
