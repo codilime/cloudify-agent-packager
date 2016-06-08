@@ -24,8 +24,7 @@ CORE_MODULES_LIST = [
 ]
 
 CORE_PLUGINS_LIST = [
-    # 'cloudify_script_plugin',
-    # 'cloudify_diamond_plugin',
+    'cloudify_diamond_plugin',
 ]
 
 MANDATORY_MODULES = [
